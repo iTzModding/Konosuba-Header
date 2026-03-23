@@ -8,5 +8,5 @@ Imagens prontas para implementação em SystemUI ou temas de ROMs customizadas.
 
 * **Format:** PNG / WebP
 * **Target:** Android Quick Settings Header
-* **Author:** ymodderX
+* **Author:** yModderX
   
